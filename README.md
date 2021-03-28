@@ -4,4 +4,5 @@
  - 📫 Contact:
       - Discord: LoTREMOR#8326
       - E-mail: gabrielsilvavieira_@hotmail.com
-      - Website: https://lotremor.dev/
+      - Telegram: t.me/LoTREMOR
+      - Website: www.lotremor.dev
