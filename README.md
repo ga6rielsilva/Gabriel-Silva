@@ -1,6 +1,6 @@
 👋 Hi, I'm Gabriel! Welcome to my Github.
 
- - 🌱 I’m currently learning [Java]
+ - 🌱 I’m currently learning [Java, C#]
  - 📫 Contact:
       - Discord: LoTREMOR#8326
       - E-mail: gabrielsilvavieira_@hotmail.com
