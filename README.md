@@ -4,7 +4,7 @@
 
  - 🌱 I’m currently learning [Java, C#]
  - 📫 Contact:
-      - Discord: ![](https://dcbadge.vercel.app/api/shield/339456639058968578?bot=false)
+      - Discord: ![](https://dcbadge.vercel.app/api/shield/339456639058968578?bot=true)
       - E-mail: gabrielsilvavieira_@hotmail.com
       - Telegram: https://t.me/LoTREMOR
       - Website: https://website.com
