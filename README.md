@@ -1,8 +1,10 @@
 👋 Hi, I'm Gabriel! Welcome to my Github.
 
+
+
  - 🌱 I’m currently learning [Java, C#]
  - 📫 Contact:
-      - Discord: LoTREMOR#8326
+      - Discord: ![](https://dcbadge.vercel.app/api/shield/339456639058968578?bot=false)
       - E-mail: gabrielsilvavieira_@hotmail.com
       - Telegram: https://t.me/LoTREMOR
-      - Website: https://lotremor.dev
+      - Website: https://website.com
